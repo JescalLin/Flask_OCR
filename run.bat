@@ -1,2 +1,2 @@
 CALL activate tt
-CALL flask run
+CALL python app.py
